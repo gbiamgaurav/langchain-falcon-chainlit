@@ -2,3 +2,5 @@ langchain
 huggingface_hub
 chainlit
 python-dotenv
+langchain-community
+langchain-huggingface
